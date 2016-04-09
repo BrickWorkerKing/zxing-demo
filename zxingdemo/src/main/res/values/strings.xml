@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZXingDemo</string>
+    <string name="get_msg">获取到的信息是：%s</string>
+</resources>
